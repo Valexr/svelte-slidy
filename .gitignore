@@ -1,7 +1,7 @@
 # Directories
-node_modules/
-dist/
 .vscode
+/node_modules
+/dist
 
 #Files
 .htaccess
